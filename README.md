@@ -7,14 +7,16 @@ Dataset (kidney_disease.csv):
 A dataset containing patient records with features. This dataset is used for training and evaluating all models.
 
 kidney_disease.py:
-Contains the implementation of traditional machine learning models(Parent Paper Code)
+Contains the implementation of traditional machine learning models(Parent Paper Code).
 
 tabnet.py:
-Implements the TabNet model
+Implements the TabNet model.
 
 tabtransformer.py:
-Implements the TabTransformer model for CKD prediction
+Implements the TabTransformer model for CKD prediction.
 
+kidney_disease.ipynb & kidney_disease.ipynb:
+Performs the same functions as tabnet.py and tabtransformer.py in a more modular format.
 
 ## Usage
 Run Traditional Machine Learning Models
