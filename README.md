@@ -12,6 +12,7 @@ tabtransformer.py: Implements the TabTransformer model for CKD prediction
 
 ## Usage
 Run Traditional Machine Learning Models
+
 Execute the following script to train and evaluate traditional ML models:
 python kidney_disease.py
 
