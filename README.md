@@ -14,14 +14,17 @@ tabtransformer.py: Implements the TabTransformer model for CKD prediction
 Run Traditional Machine Learning Models
 
 Execute the following script to train and evaluate traditional ML models:
+
 python kidney_disease.py
 
 ## Run TabNet Model
 Train and evaluate the TabNet model:
+
 python tabnet.py
 
 ## Run TabTransformer Model
 Train and evaluate the TabTransformer model:
+
 python tabtransformer.py
 
 ## Analyze Feature Importance
@@ -32,7 +35,9 @@ The project compares various models on metrics such as accuracy, precision, reca
 
 ## Contributors
 Slava Hlushko (Penn State University, Computational Data Science): vqh5091@psu.edu
+
 Laurence Castillo (Penn State University, Computational Data Science): llc5360@psu.edu
+
 Ajinkya Kondaskar (Penn State University, Computational Data Science): aak5683@psu.edu
 
 
