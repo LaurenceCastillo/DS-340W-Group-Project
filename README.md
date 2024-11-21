@@ -3,11 +3,17 @@
 This repository contains code for predicting Chronic Kidney Disease (CKD) using various machine learning models and state-of-the-art deep learning approaches. The project includes a comparison of traditional machine learning techniques, such as Logistic Regression and Random Forest, with advanced deep learning models, TabNet and TabTransformer, specifically designed for tabular data. These models not only improve prediction accuracy but also enhance interpretability, making them suitable for critical applications in healthcare.
 
 ## Repository Structure
-Dataset (kidney_disease.csv): A dataset containing patient records with features. This dataset is used for training and evaluating all models.
+Dataset (kidney_disease.csv):
+A dataset containing patient records with features. This dataset is used for training and evaluating all models.
 
-kidney_disease.py: Contains the implementation of traditional machine learning models(Parent Paper Code)
-tabnet.py: Implements the TabNet model
-tabtransformer.py: Implements the TabTransformer model for CKD prediction
+kidney_disease.py:
+Contains the implementation of traditional machine learning models(Parent Paper Code)
+
+tabnet.py:
+Implements the TabNet model
+
+tabtransformer.py:
+Implements the TabTransformer model for CKD prediction
 
 
 ## Usage
