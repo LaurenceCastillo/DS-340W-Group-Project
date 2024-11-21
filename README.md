@@ -1,6 +1,6 @@
 # DS-340W-Group-Project
 ## Overview
-This repository contains code for predicting Chronic Kidney Disease (CKD) using various machine learning models and state-of-the-art deep learning approaches. The project includes a comparison of traditional machine learning techniques, such as Logistic Regression and Random Forest, with advanced deep learning models, TabNet and TabTransformer, specifically designed for tabular data. These models not only improve prediction accuracy but also enhance interpretability, making them suitable for critical applications in healthcare.
+This repository contains code for predicting Chronic Kidney Disease (CKD) using various machine learning models and deep learning approaches. The project includes a comparison of traditional machine learning techniques with  deep learning models, TabNet and TabTransformer. These models not only improve prediction accuracy but also enhance interpretability, making them suitable for applications in healthcare.
 
 ## Repository Structure
 Dataset (kidney_disease.csv):
