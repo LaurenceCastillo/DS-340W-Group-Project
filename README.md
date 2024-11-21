@@ -15,7 +15,7 @@ Implements the TabNet model.
 tabtransformer.py:
 Implements the TabTransformer model for CKD prediction.
 
-kidney_disease.ipynb & kidney_disease.ipynb:
+kidney_disease.ipynb:
 Performs the same functions as tabnet.py and tabtransformer.py in a more modular format.
 
 ## Usage
